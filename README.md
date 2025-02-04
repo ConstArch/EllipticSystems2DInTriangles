@@ -1,4 +1,4 @@
-Required language standard: C++17
+Required language standard: C++17.
 
 Full run command: `<exe file> <problem file> <mesh file>`.
 
